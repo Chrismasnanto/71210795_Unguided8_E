@@ -1,0 +1,2 @@
+Gelas yang terisi lebih dahulu adalah gelas 4. 
+karena dari kran airnya jika dinyalakan maka akan mengalir lebih dulu ke arah gelas 4 sehingga gelas 4 akan terisi lebih dulu dibandingkan dengan gelas lainnya. 
