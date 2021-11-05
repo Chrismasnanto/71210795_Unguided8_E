@@ -1,0 +1,14 @@
+Pencarian nilai fibonacci
+ deklarasi:
+i, n, fibonacci(i):bilangan bulat
+
+ deskripsi:
+input n
+if i=0 atau i=1 maka
+"fibonacci(i)=i"
+else
+whilei>1 dan i<n do
+fibonacci(i)=fibonacci(i-1)+fibonacci(i-2)
+fibonacci(i)
+i=i+1
+end
